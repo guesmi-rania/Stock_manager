@@ -6,7 +6,7 @@ dependencies:
   flutter:
     sdk: flutter
 environment:
-  sdk: '^3.7.0'
+  sdk: '>=3.7.0-0 <4.0.0'
   # Ajoutez d'autres dépendances si nécessaire
   # Par exemple, si vous utilisez une base de données ou des bibliothèques externes, ajoutez-les ici.
 
