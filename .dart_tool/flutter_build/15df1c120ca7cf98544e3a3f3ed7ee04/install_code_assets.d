@@ -1,0 +1,1 @@
+ /home/user/Stock_manager/.dart_tool/flutter_build/15df1c120ca7cf98544e3a3f3ed7ee04/native_assets.json: 
