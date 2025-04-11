@@ -1,17 +1,22 @@
-# stock_manager
+# Stock Manager 📦📊
 
-A new Flutter project.
+Une application Flutter pour gérer le stock d’un petit commerce.
 
-## Getting Started
+## 📱 Aperçu de l'application
 
-This project is a starting point for a Flutter application.
+### 🖼️ Écran d'accueil WEB
+![Accueil](images/Capture8f.png)
 
-A few resources to get you started if this is your first Flutter project:
+### 🖼️ Écran d'accueil MOBILE
+![Accueil](images/Capture1f.png)
+![Accueil](images/Capture2f.png)
+![Accueil](images/Capture3f.png)
+![Accueil](images/Capture4f.png)
+![Accueil](images/Capture5f.png)
+![Accueil](images/Capture6f.png)
+![Accueil](images/Capture7f.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Stock_manager" 
+
+---
